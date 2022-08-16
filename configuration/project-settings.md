@@ -48,8 +48,8 @@ All configuration options are described in detail below.
 
 - **Project Color** — Sets color on the project logo, FavIcon and login/public pages.
 - **Project Logo** — Adds a 40x40px logo at the top of the [Module Bar](/app/overview.html#_1-module-bar) and on the
-  login/public pages. The image is inset within a 64x64px square filled with the project color. We suggest using an SVG
-  or PNG logo with transparency to avoid a "boxy" look.
+  login/public pages. The image is inset within a 64x64px square filled with the project color. We recommend using a PNG
+  file for optimal compatibility.
 - **Public Foreground** — Adds image on the public page's right-pane _(max-width 400px)_.
 - **Public Background** — Adds image displayed behind the public foreground image, shown full-bleed within the public
   page's right-pane. When a public background image is not set, the project color is used instead.
@@ -58,12 +58,6 @@ All configuration options are described in detail below.
 - **Custom CSS** — Applies custom CSS rules to override the Data Studio's default styling. Be aware that the Data
   Studio's core code, and therefore its DOM selectors, can change at any time. These updates are not considered a
   breaking change.
-
-:::warning Gmail Doesn't Support SVG
-
-The project logo is used in system emails, so we suggest using another file type.
-
-:::
 
 ::: tip Browser FavIcon & Title
 

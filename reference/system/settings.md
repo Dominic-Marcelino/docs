@@ -68,12 +68,6 @@ Custom tiles to overriding the Mapbox defaults.
 `module_bar` **array**\
 What modules are enabled/added globally.
 
-:::warning Gmail Doesn't Support SVG
-
-The project logo is used in system emails, so we suggest using another file type.
-
-:::
-
 ```json
 {
 	"data": {
