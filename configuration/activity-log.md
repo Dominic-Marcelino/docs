@@ -41,6 +41,13 @@ _directly_ are not tracked.
 
 :::
 
+:::tip
+
+You can also view and revert the activity of _specific items_ under **Item Page > Sidebar > Revisions**. To learn more,
+please see [Revert an Item](/app/content/items.html#revert-an-item).
+
+:::
+
 ## View an Activity Log Item
 
 ![Activity Log Default Fields](https://cdn.directus.io/docs/v9/configuration/activity-log/activity-log-20220816/activity-log-default-fields-20220816A.webp)
