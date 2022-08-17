@@ -10,6 +10,19 @@ readTime: 2 min read
 > This module provides a collective timeline of all _data-changing_ actions taken within your project. These detailed
 > records help you audit user activity and enforce accountability.
 
+:::tip Before you Begin
+
+We recommend you try the [Quickstart Guide](/getting-started/quickstart.md) to get an overview of the platform.
+
+:::
+
+:::tip Learn More
+
+To manage the Activity Log programmatically, please see our guide on the
+[Activity Log API](/reference/system/activity.md).
+
+:::
+
 ## Overview
 
 <video title="Activity Log Overview" autoplay playsinline muted loop controls>
