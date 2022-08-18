@@ -117,7 +117,7 @@ gtag('config', 'UA-24637628-7');
 		},
 		sidebar: sidebar(),
 		editLink: {
-			pattern: 'https://github.com/directus/directus/edit/main/:link',
+			pattern: 'https://github.com/directus/docs/edit/main/:link',
 			text: 'Edit this page on GitHub',
 		},
 	},
