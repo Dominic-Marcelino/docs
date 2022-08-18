@@ -408,8 +408,8 @@ Only get 3 related articles, with only the top rated comment nested
 	"related_articles": {
 		"_limit": 3,
 		"comments": {
-			"_sort": "rating",
-			"_limit": 1
+			"sort": "rating",
+			"limit": 1
 		}
 	}
 }
