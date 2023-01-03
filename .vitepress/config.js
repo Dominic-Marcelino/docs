@@ -650,7 +650,7 @@ function sidebar() {
 			items: [
 				{
 					link: '/self-hosted/installation',
-					text: 'Installation (All)'
+					text: 'Installation (All)',
 					items: [
 						{
 							link: '/self-hosted/installation/cli',
