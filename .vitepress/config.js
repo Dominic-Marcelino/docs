@@ -649,16 +649,26 @@ function sidebar() {
 			collapsed: true,
 			items: [
 				{
+					link: '/self-hosted/installation',
+					text: 'Installation (All)'
+					items: [
+						{
+							link: '/self-hosted/installation/cli',
+							text: 'CLI',
+						},
+						{
+							link: '/self-hosted/installation/docker',
+							text: 'Docker',
+						},
+					],
+				},
+				{
 					link: '/self-hosted/quickstart',
 					text: 'Quickstart',
 				},
 				{
 					link: '/self-hosted/config-options',
 					text: 'Config Options',
-				},
-				{
-					link: '/self-hosted/installation/docker',
-					text: 'Docker Guide',
 				},
 				{
 					link: '/self-hosted/sso',
